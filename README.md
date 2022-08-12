@@ -1,5 +1,6 @@
 # RAVER
-- ### 2021-2 광운대학교 참빛설계 (UNDERDOG)
+- ### 2021-2 광운대학교 참빛설계 
+- #### Team.UNDERDOG (권준혁, 소현수, 장석원, 손재성)
 - #### Application for making and editing music cover video
 - #### AndroidStudio, FFMPEG
 <br><br/>
